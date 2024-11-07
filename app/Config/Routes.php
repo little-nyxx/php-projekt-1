@@ -9,4 +9,4 @@ $routes->get('/', 'Home::index');
 $routes->get('pokus', 'Main::pokus');
 $routes->get('koncerty', 'Main::koncerty');
 $routes->get('pisnicky', 'Main::pisnicky');
-$routes->get('alba', 'Main::pisnicky');
+$routes->get('alba', 'Main::alba');
