@@ -49,7 +49,7 @@
                 <?= img($hony); ?>
               </div>
               <div class="col-6">
-                <div class="card-body ps-5 pt-3">
+                <div class="card-body ps-3 pt-3">
                   <h5 class="card-title" style="font-weight: bold
                   ;">Hold on Now, Youngster...</h5>
                   <p class="card-text">První album. Rok vydání 2008. Remaster 2018. Singly: Death to Los Campesinos!, My Year in Lists</p>
@@ -65,7 +65,7 @@
                 <?= img($wabwad); ?>
               </div>
               <div class="col-6">
-                <div class="card-body ps-5 pt-3">
+                <div class="card-body ps-3 pt-3">
                   <h5 class="card-title" style="font-weight: bold
                   ;">We Are Beautiful, We Are Doomed</h5>
                   <p class="card-text">Druhé album. Rok vydání 2008. Vyšlo pár měsíců po prvním albu a má 32 minut.</p>
@@ -81,7 +81,7 @@
                 <?= img($rib); ?>
               </div>
               <div class="col-6">
-                <div class="card-body ps-5 pt-3">
+                <div class="card-body ps-3 pt-3">
                   <h5 class="card-title" style="font-weight: bold
                   ;">Romance Is Boring</h5>
                   <p class="card-text">Třetí album. Rok vydání 2010. Dle mého názoru nejlepší album. K albu vyšla "deluxe" verze s názvem All's well that ends s akustickými remixy 4 písniček. Singly: The Sea Is a Good Place to Think of the Future, There Are Listed Buildings, Romance Is Boring</p>
@@ -97,7 +97,7 @@
                 <?= img($hellosadness); ?>
               </div>
               <div class="col-6">
-                <div class="card-body ps-5 pt-3">
+                <div class="card-body ps-3 pt-3">
                   <h5 class="card-title" style="font-weight: bold
                   ;">Hello Sadness</h5>
                   <p class="card-text">Čtvrté album. Vyšlo v roce 2011. Ve stejné době píšou písničky, co později vyšly v roce 2021 jako EP Whole Damn Body. Singly: By Your Hand, Hello Sadness, Songs About Your Girlfriend</p>
@@ -113,7 +113,7 @@
                 <?= img($noblues); ?>
               </div>
               <div class="col-6">
-                <div class="card-body ps-5 pt-3">
+                <div class="card-body ps-3 pt-3">
                   <h5 class="card-title" style="font-weight: bold
                   ;">NO BLUES</h5>
                   <p class="card-text">Páté album. Vyšlo v roce 2013. Je celkem mid. Singly: What Death Leaves Behind, Avocado Baby</p>
@@ -129,7 +129,7 @@
                 <?= img($sickscenes); ?>
               </div>
               <div class="col-6">
-                <div class="card-body ps-5 pt-3">
+                <div class="card-body ps-3 pt-3">
                   <h5 class="card-title" style="font-weight: bold
                   ;">Sick Scenes</h5>
                   <p class="card-text">Šesté album. Vyšlo v roce 2017. Má docela epické písničky. Singly: I Broke Up in Amarante, 5 Flucloxacilin, The Fall of Home, Renato Dall'Ara (2008)</p>
@@ -145,7 +145,7 @@
                 <?= img($allhell); ?>
               </div>
               <div class="col-6">
-                <div class="card-body ps-5 pt-3">
+                <div class="card-body ps-3 pt-3">
                   <h5 class="card-title" style="font-weight: bold
                   ;">All Hell</h5>
                   <p class="card-text">Sedmé album. Vyšlo v roce 2024. Kompletně vytvořené a vydané kapelou na jejich vlastní record label Heart Swells. V Británii bylo první týden v tabulkách 14. Singly: Feast of Tongues, Psychic Wound, 0898 HEARTACHE, kms</p>

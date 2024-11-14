@@ -4,6 +4,7 @@ namespace App\Controllers;
 
 use App\Controllers\BaseController;
 use CodeIgniter\HTTP\ResponseInterface;
+use App\Models\Hraci;
 
 class Main extends BaseController
 {
@@ -30,5 +31,13 @@ class Main extends BaseController
     public function alba()
     {
         echo view('alba');
+    }
+
+    public function hraci()
+    {
+        $hraci = new Hraci();
+        $data["hraci"] = $hraci->where('country', 'pl')->findAll();
+
+        echo view('hraci', $data);
     }
 }

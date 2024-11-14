@@ -10,3 +10,4 @@ $routes->get('pokus', 'Main::pokus');
 $routes->get('koncerty', 'Main::koncerty');
 $routes->get('pisnicky', 'Main::pisnicky');
 $routes->get('alba', 'Main::alba');
+$routes->get('hraci', 'Main::hraci');
