@@ -36,7 +36,7 @@ class Main extends BaseController
     public function hraci()
     {
         $hraci = new Hraci();
-        $data["hraci"] = $hraci->where('country', 'pl')->findAll();
+        $data["hraci"] = $hraci->where('country', 'pl')->where('vaha', 69)->orderBy('vyska','asc')->findAll();
 
         echo view('hraci', $data);
     }
